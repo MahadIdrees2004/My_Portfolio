@@ -342,15 +342,15 @@ const toggleDescription = (projectId) => {
     background: #3b82f6;
     border-radius: 50%;
     position: absolute;
-    right: -50px;
+    right: -8px;
     top: 50%;
-    transform: translateY(-50%);
+    transform: translateY(-20%);
     z-index: 2;
     box-shadow: 0 0 0 4px rgba(59, 130, 246, 0.2);
 }
 
 .project-item.right .timeline-dot {
-    left: -50px;
+    left: -11.9px;
 }
 
 .project-card {
