@@ -11,13 +11,7 @@
       <div class="header-section" >
         <h1>Mahad Idrees Khan</h1>
         <p class="subtitle">Technology Enthusiast • Software Engineer • Frontend Developer</p>
-        <div class="social-links">
-          <a href="https://github.com/MahadIdrees2004/" target="_blank" class="social-btn">GitHub</a>
-          <a href="https://www.linkedin.com/in/mahad-idrees-khan-643687250/" target="_blank" class="social-btn">LinkedIn</a>
-          <a href="mailto:mahadidrees2004@gmail.com" class="social-btn">Email</a>
-        </div>
-      </div>
-
+        
       <div class="about-section">
         <h2>About Me</h2>
         <div class="about-content">
@@ -26,21 +20,19 @@
           <p class="passion">My passion lies in transforming ideas into reality through clean code and intuitive interfaces. Whether it's building responsive web apps or exploring AI solutions, I'm always excited to embrace new challenges and push the boundaries of what's possible.</p>
         </div>
       </div>
+        <div class="social-links">
+          <a href="https://github.com/MahadIdrees2004/" target="_blank" class="social-btn">GitHub</a>
+          <a href="https://www.linkedin.com/in/mahad-idrees-khan-643687250/" target="_blank" class="social-btn">LinkedIn</a>
+          <a href="mailto:mahadidrees2004@gmail.com" class="social-btn">Email</a>
+        </div>
+      </div>
+
 
       <div class="info-section" style="max-width: 400px;">
         <div class="info-grid">
           <div class="info-item">
-            <span class="info-label">👨‍👦 Father</span>
-            <span class="info-value">Muhammad Idrees Khan</span>
-          </div>
-          <div class="info-item">
-            <span class="info-label">🎂 Age</span>
-            <span class="info-value">18</span>
-          </div>
-          
-          <div class="info-item">
             <span class="info-label">✉️ Email</span>
-            <span class="info-value">mahadidrees2004email.com</span>
+            <span class="info-value">mahadidrees2004@gmail.com</span>
           </div>
           <div class="info-item">
             <span class="info-label">💡 Interests</span>
