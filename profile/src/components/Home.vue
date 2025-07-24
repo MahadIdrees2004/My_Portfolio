@@ -37,14 +37,7 @@
             <span class="info-label">🎂 Age</span>
             <span class="info-value">18</span>
           </div>
-          <div class="info-item">
-            <span class="info-label">📞 Phone</span>
-            <span class="info-value">0313-4384605</span>
-          </div>
-          <div class="info-item">
-            <span class="info-label">🏠 Address</span>
-            <span class="info-value">479-K, Al-Rehman Garden Phase II, Lahore</span>
-          </div>
+          
           <div class="info-item">
             <span class="info-label">✉️ Email</span>
             <span class="info-value">mahadidrees2004email.com</span>
